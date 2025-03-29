@@ -1,0 +1,18 @@
+{
+    "active_characters": [
+        "Player1: Beidou",
+        "Player2: Xiangling",
+        "Player3: Diluc",
+        "Player4: Diluc"
+    ],
+    "elemental_resonance": {
+        "Electro": 1,
+        "Pyro": 3
+    },
+    "active_buffs": [
+        {
+            "name": "Fervent Flames",
+            "effect": "Attack +25%, Cryo duration -40%"
+        }
+    ]
+}
